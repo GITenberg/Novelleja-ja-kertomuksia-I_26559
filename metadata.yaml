@@ -1,0 +1,52 @@
+_repo: Novelleja-ja-kertomuksia-I_26559
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dehas, Camille
+    gutenberg_agent_id: '48308'
+    url: http://www.gutenberg.org/2009/agents/48308
+  - agent_name: Tegtmeyer, Emilie
+    birthdate: 1827
+    deathdate: 1903
+    gutenberg_agent_id: '45979'
+    url: http://www.gutenberg.org/2009/agents/45979
+  - agent_name: Canth, Minna
+    aliases:
+    - Wilja
+    - Johnsson, Ulrika Vilhelmina
+    - Canth, Ulrika Vilhelmina Johnsson
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '3553'
+    url: http://www.gutenberg.org/2009/agents/3553
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Minna_Canth
+    - http://fi.wikipedia.org/wiki/Minna_Canth
+  - agent_name: Blanche, August
+    alias: Blanche, August Teodor
+    birthdate: 1811
+    deathdate: 1868
+    gutenberg_agent_id: '31667'
+    url: http://www.gutenberg.org/2009/agents/31667
+    wikipedia: http://en.wikipedia.org/wiki/August_Blanche
+description: ''
+gutenberg_issued: '2008-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26559'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+- !lcsh 'Fiction'
+tableOfContents: "Ensimmäiset markkinat / [Minna Canth] -- Äiti ja poika / [Minna\
+  \ Canth]\t -- Päivä koittaa / [Minna Canth] -- Kärsivä kukka / August Blanche --\
+  \ Sovitettu / Emilie Tegtmeyer -- Radan vaihtaja / Camille Dehas."
+title: Novelleja ja kertomuksia I
+url: http://www.gutenberg.org/ebooks/26559
